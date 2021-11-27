@@ -1,5 +1,5 @@
 # University-News-Portal-with-chatbot-support
-For chatbot
+For chatbot (created using RASA framework)
 
 - install anaconda
 - install rasa
